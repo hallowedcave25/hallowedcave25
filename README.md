@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there, I'm Akula Ashrith! 👋
 
-<!--
-**hallowedcave25/hallowedcave25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mechanical Engineering Undergraduate at **IIT (BHU)** turning my engineering mindset toward **Cybersecurity** and **Low-Level Systems**. I love understanding how things work under the hood, from combustion engines to kernel memory.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Stack
+* **Languages:** C++, Python, SQL, Bash
+* **Security:** Wireshark, Nmap, Wazuh (SIEM), Burp Suite
+* **OS:** Linux (Arch/EndeavourOS Daily Driver), Windows, Kali
+
+---
+
+### 🔭 I’m currently working on...
+* **[Enterprise-Grade Security Home Lab](https://github.com/hallowedcave25/enterprise-security-homelab):** A virtualized SOC environment using Wazuh to detect simulated attacks.
+* **[C++ Input Monitor](https://github.com/hallowedcave25/cpp-input-monitor):** Exploring Windows API and bit manipulation to understand input handling mechanisms.
+
+---
+
+### 📜 Certifications
+* **Google Cybersecurity Professional Certificate** (Coursera/Google)
+
+---
+
+### 📫 Connect with me
+* [LinkedIn](https://www.linkedin.com/in/akula-ashrith-6349312ab/)
+* [Email](mailto:hallowedcave25@gmail.com)
