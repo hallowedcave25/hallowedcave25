@@ -23,5 +23,5 @@ I'm a Mechanical Engineering Undergraduate at **IIT (BHU)** turning my engineeri
 ---
 
 ### 📫 Connect with me
-* [LinkedIn](https://www.linkedin.com/in/akula-ashrith-6349312ab/)
+* [LinkedIn](https://www.linkedin.com/in/akula-ashrith/)
 * [Email](mailto:hallowedcave25@gmail.com)
