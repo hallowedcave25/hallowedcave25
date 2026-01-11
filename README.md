@@ -18,7 +18,7 @@ I'm a Mechanical Engineering Undergraduate at **IIT (BHU)** turning my engineeri
 ---
 
 ### 📜 Certifications
-* **Google Cybersecurity Professional Certificate** (Coursera/Google)
+* **Google Cybersecurity Professional Certificate** (Coursera)
 
 ---
 
