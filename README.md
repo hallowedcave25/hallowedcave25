@@ -13,7 +13,6 @@ I'm a Mechanical Engineering Undergraduate at **IIT (BHU)** turning my engineeri
 
 ### 🔭 I’m currently working on...
 * **[Enterprise-Grade Security Home Lab](https://github.com/hallowedcave25/enterprise-security-homelab):** A virtualized SOC environment using Wazuh to detect simulated attacks.
-* **[C++ Input Monitor](https://github.com/hallowedcave25/cpp-input-monitor):** Exploring Windows API and bit manipulation to understand input handling mechanisms.
 
 ---
 
