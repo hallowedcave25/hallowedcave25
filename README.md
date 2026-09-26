@@ -12,6 +12,7 @@ I'm a Mechanical Engineering Undergraduate at **IIT (BHU)** turning my engineeri
 ---
 
 ### 🔭 I’m currently working on...
+* **[Choose-Your-Own-Adventure-AI](https://github.com/hallowedcave25/Choose-Your-Own-Adventure-AI):** Interactive storytelling platform that uses LLMs to create unique branching adventures in real time
 * **[Enterprise-Grade Security Home Lab](https://github.com/hallowedcave25/enterprise-security-homelab):** A virtualized SOC environment using Wazuh to detect simulated attacks.
 
 ---
